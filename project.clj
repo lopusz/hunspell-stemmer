@@ -1,4 +1,4 @@
-(defproject hunspell-stemmer "0.2.0"
+(defproject hunspell-stemmer "0.3.0"
 
   ; GENERAL OPTIONS
 
