@@ -1,4 +1,4 @@
-* stemmer-hunspell
+* hunspell-stemmer
 
   Hunspell stemmer functionality filtered out of Lucene 5.2.1,
   because basic stemmer interface is private there.
