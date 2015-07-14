@@ -3,6 +3,8 @@
   Hunspell stemmer functionality filtered out of Lucene 5.2.1,
   because basic stemmer interface is private there.
 
+  Developed for use in the [[http://github.com/lopusz/langlab][langlab]] project.
+
   Hunspell home is here:
 
   http://hunspell.sourceforge.net/
