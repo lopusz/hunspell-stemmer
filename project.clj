@@ -1,9 +1,9 @@
-(defproject hunspell-stemmer "0.1.0"
+(defproject hunspell-stemmer "0.2.0"
 
   ; GENERAL OPTIONS
 
   :description "Hunspell stemmer functionality filtered out of Lucene 5.2.1."
-  :url "http://github.com/lopusz/stemmer-hunspell"
+  :url "http://github.com/lopusz/hunspell-stemmer"
   :license {:name " Apache License, Version 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0"}
   ;; Options used by Java
