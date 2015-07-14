@@ -2,9 +2,9 @@
 
   Hunspell stemmer functionality filtered out of Lucene 5.2.1,
   because basic stemmer interface is private there.
- 
+
   Hunspell home is here:
-  
+
   http://hunspell.sourceforge.net/
 
   Various dictionary files are available from:
@@ -14,10 +14,13 @@
   Polish dictionary can be also obtained from
 
   http://www.sjp.pl/slownik/en/
- 
+
   (the sjp-myspell-pl package contains PL_pl.zip with aff and dic files)
-   
+
+  This library was deployed to Clojars
+
+  [[http://clojars.org/hunspell-stemmer][http://clojars.org/hunspell-stemmer/latest-version.svg]]
 
 * License
 
-  Distributed under the Apache License, Version 2.0 
+  Distributed under the Apache License, Version 2.0
